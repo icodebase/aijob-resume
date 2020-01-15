@@ -1,8 +1,14 @@
 # AI 算法岗简历模板
 
-注：本项目介绍的简历模板仅专项用于 AI 算法岗。简历模板大致如下：
+注：本项目介绍的简历模板仅专项用于 AI 算法岗。
 
-![](src/imgs/resume.png)
+知乎：https://zhuanlan.zhihu.com/p/102816078
+
+预览地址：https://icodebase.github.io/aijob-resume/
+
+简历模板大致如下：
+
+![](imgs/resume.png)
 
 ## 在线简历模板
 
@@ -52,6 +58,6 @@
 
 感兴趣的可以关注一下这个求职群[「自码库」](https://t.zsxq.com/VrJmEeu)
 
-![](src/imgs/自码库.png)
+![](imgs/自码库.png)
 
 **[@ Cong Min](https://github.com/mcc108/resume) 和 [@ Amusi](https://github.com/amusi/AI-Job-Resume). Thx**
