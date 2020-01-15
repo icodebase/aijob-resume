@@ -1,7 +1,7 @@
 {
-  "name": "resume",
+  "name": "aijob-resume",
   "version": "2.0.0",
-  "description": "resume.congm.in",
+  "description": "icodebase.cn",
   "main": "index.html",
   "scripts": {
     "dev": "webpack-dev-server --mode=development --open",
@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mcc108/resume.git"
+    "url": "git+ssh://git@github.com/icodebase/aijob-resume.git"
   },
-  "author": "Cong Min",
+  "author": "Frankie Gu",
   "license": "cc-by-sa-4.0",
-  "homepage": "http://resume.congm.in",
+  "homepage": "http://www.icodebase.cn",
   "devDependencies": {
     "autoprefixer": "^9.6.0",
     "css-loader": "^3.0.0",

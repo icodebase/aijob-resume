@@ -7,7 +7,7 @@ const path = require('path');
 
 module.exports = {
     entry: {
-        app: ['./docs/entry.js']
+        app: ['./src/entry.js']
     },
     output: {
         filename: 'static/[name].js?[hash:6]',
@@ -19,7 +19,7 @@ module.exports = {
     plugins: [
         // new webpack.HotModuleReplacementPlugin(),
         new HtmlWebpackPlugin({
-            template: './docs/index.html',
+            template: './src/index.html',
             filename: 'index.html',
             inject: 'head',
             minify: {

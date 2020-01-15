@@ -2,13 +2,13 @@
 
 注：本项目介绍的简历模板仅专项用于 AI 算法岗。简历模板大致如下：
 
-![](imgs/resume.png)
+![](src/imgs/resume.png)
 
 ## 在线简历模板
 
 - 0、**安装依赖：** `npm i`
 - 1、**启动：** `npm run dev` 开启调试服务
-- 2、**开发：** 编辑 `/docs/index.html` 文件，Web服务实时预览
+- 2、**开发：** 编辑 `/src/index.html` 文件，Web服务实时预览
 - 3、**生产：** `npm run build` 打包构建
 - 4、**预览：** 浏览器打开 `/index.html` 查看结果
 
@@ -52,6 +52,6 @@
 
 感兴趣的可以关注一下这个求职群[「自码库」](https://t.zsxq.com/VrJmEeu)
 
-![](imgs/自码库.png)
+![](src/imgs/自码库.png)
 
 **[@ Cong Min](https://github.com/mcc108/resume) 和 [@ Amusi](https://github.com/amusi/AI-Job-Resume). Thx**
