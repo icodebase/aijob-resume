@@ -14,7 +14,6 @@ HR在每份简历上画的时间平均为15秒；每245份简历中有一份获�
 
 知乎：https://zhuanlan.zhihu.com/p/102816078
 
-预览地址：https://icodebase.github.io/aijob-resume/
 
 ## 在线简历模板
 
@@ -62,10 +61,13 @@ HR在每份简历上画的时间平均为15秒；每245份简历中有一份获�
 
 9. **证件照**。有些同学的简历是会附上自己的证件照，这里建议一定要是尽可能整洁的证件照，比如穿着西服或者白衬衫，拍一张蓝底或白底的一寸照。有些地方还有所谓的最美证件照，可以帮忙化妆，这个去拍一下也可以。因为现阶段，拍摄的证件照可以用很久，很多次。简历上的证件照还是建议重视一点，不要因为这点影响面试官的评价。
 
-交流群
-- 微信讨论群（请备注：aijob-resume）
+## 联系
 
-![](imgs/aijob-resume.jpg)
+* 喜欢本项目请先打一颗星；
+
+| 公众号 | 微信号 |
+| ------ | --------- |
+| <img src="http://www.icodebase.cn/static/blog/img/dingyuehao.jpg" height="258px" width="258px" title="公众号" style="display:inherit;"/> | <img src="http://www.icodebase.cn/static/blog/img/aiqianji.jpg" height="258px" width="258px" title="微信号" style="display:inherit;"/> |
 
 
 **[@ Cong Min](https://github.com/mcc108/resume) 和 [@ Amusi](https://github.com/amusi/AI-Job-Resume). Thx**
