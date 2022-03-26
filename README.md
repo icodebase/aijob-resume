@@ -11,9 +11,10 @@ HR在每份简历上画的时间平均为15秒；每245份简历中有一份获�
 这是一个开源的在线简历，可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。写这个模版的初衷是希望同一份简历既能做页面展示，也能直接打印出来到处投。
 
 适合人群：适合AI 算法岗对于简历有要求的同学，可以完美的让你对简历进行管理。
-
+项目出处：https://aiqianji.com/blog/project/2
 知乎：https://zhuanlan.zhihu.com/p/102816078
 
+* 喜欢本项目请先打一颗星
 
 ## 在线简历模板
 
@@ -60,14 +61,3 @@ HR在每份简历上画的时间平均为15秒；每245份简历中有一份获�
 8. **本/硕/博成绩**。排名或者绩点，能写上去尽量写上去，会显得规范很多。很多公司或者公司 hr 是会看你成绩的，比如官网投递的时候会填写排名xx%，而且成绩这项本身就能较大直观体现你的个人能力素质或者学习能力。排名可以写成：xx/xx，比如 2/126；绩点可以按百分制或者4分制。
 
 9. **证件照**。有些同学的简历是会附上自己的证件照，这里建议一定要是尽可能整洁的证件照，比如穿着西服或者白衬衫，拍一张蓝底或白底的一寸照。有些地方还有所谓的最美证件照，可以帮忙化妆，这个去拍一下也可以。因为现阶段，拍摄的证件照可以用很久，很多次。简历上的证件照还是建议重视一点，不要因为这点影响面试官的评价。
-
-## 联系
-
-* 喜欢本项目请先打一颗星
-
-| 公众号 | 微信号 |
-| ------ | --------- |
-| <img src="http://www.icodebase.cn/static/blog/img/dingyuehao.jpg" height="258px" width="258px" title="公众号" style="display:inherit;"/> | <img src="http://www.icodebase.cn/static/blog/img/aiqianji.jpg" height="258px" width="258px" title="微信号" style="display:inherit;"/> |
-
-
-**[@ Cong Min](https://github.com/mcc108/resume) 和 [@ Amusi](https://github.com/amusi/AI-Job-Resume). Thx**
