@@ -11,7 +11,11 @@ HR在每份简历上画的时间平均为15秒；每245份简历中有一份获�
 这是一个开源的在线简历，可以利用 Github 的静态页面托管服务 Github Pages 来帮助我们做页面展示。写这个模版的初衷是希望同一份简历既能做页面展示，也能直接打印出来到处投。
 
 适合人群：适合AI 算法岗对于简历有要求的同学，可以完美的让你对简历进行管理。
+
 项目出处：https://aiqianji.com/blog/project/2
+
+预览地址：https://frankiegu.github.io/aijob-resume/
+
 知乎：https://zhuanlan.zhihu.com/p/102816078
 
 * 喜欢本项目请先打一颗星
