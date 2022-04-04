@@ -12,7 +12,7 @@ HR在每份简历上画的时间平均为15秒；每245份简历中有一份获�
 
 适合人群：适合AI 算法岗对于简历有要求的同学，可以完美的让你对简历进行管理。
 
-项目出处：https://aiqianji.com/blog/project/2
+项目出处：https://aiqianji.com/blog/project/3
 
 预览地址：https://frankiegu.github.io/aijob-resume/
 
